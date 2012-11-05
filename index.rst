@@ -44,6 +44,8 @@ I've put up a short blog post `here <http://ivory.idyll.org/blog/rtd-comments-an
 
 --titus
 
+Looks like a good blog post. -TKT
+
 
 Indices and tables
 ==================
